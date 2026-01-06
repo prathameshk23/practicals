@@ -1,3 +1,5 @@
+// DINING PHILOSOPHER
+
 #include <stdio.h>
 #include <stdlib.h>
 

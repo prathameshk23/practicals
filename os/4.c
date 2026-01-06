@@ -1,3 +1,5 @@
+//PRODUCER CONSUMER
+
 #include <stdio.h>
 int main() {
   int buffer[10], bufsize, in, out, produce, consume, choice = 0;

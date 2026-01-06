@@ -1,3 +1,6 @@
+//FILE ALLOCATION - INDEXED 
+
+
 #include <stdio.h>
 #include <string.h>
 

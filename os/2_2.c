@@ -1,3 +1,5 @@
+//SHORTESH JOB FIRST
+
 #include <stdio.h>
 
 int main() {

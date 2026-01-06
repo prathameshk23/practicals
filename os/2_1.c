@@ -1,3 +1,5 @@
+//FIRST COME FIRST SERVE
+
 #include <stdio.h>
 
 int main() {

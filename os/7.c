@@ -1,3 +1,5 @@
+//PAGE REPLACEMENT ALGORITHM - FIFO LRU OPTIMAL
+
 #include <stdio.h>
 
 int isHit(int frames[], int fn, int page) {

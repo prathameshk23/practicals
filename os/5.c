@@ -1,3 +1,5 @@
+// BANKERS ALGORITHM FOR DEADLOCK AVOIDANCE
+
 #include <stdio.h>
 
 int main() {

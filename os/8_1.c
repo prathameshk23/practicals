@@ -1,3 +1,5 @@
+//FILE ALLOCATION - SEQUENTIAL 
+
 #include <stdio.h>
 #include <string.h>
 
